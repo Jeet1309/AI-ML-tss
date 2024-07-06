@@ -1,2 +1,2 @@
 # AI/ML tss
- for submission os assignments 
+ for tss submission and assignments 
